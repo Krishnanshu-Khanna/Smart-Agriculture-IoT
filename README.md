@@ -59,7 +59,28 @@ This system is designed to automate irrigation, monitor weather conditions, and 
 ---
 
 ## 📷 Project Images & Demonstration  
-*(Include screenshots, circuit diagrams, and working videos here.)*  
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><img src="/view1.jpg" alt="Sensor Setup 1" width="400px"></td>
+    <td align="center"><img src="/view2.jpg" alt="Sensor Setup 2" width="400px"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>View 1</b></td>
+    <td align="center"><b>View 2</b></td>
+  </tr>
+</table>
+
+<br>
+
+## 🎥 Watch the Demo Video  
+<a href="https://youtu.be/-YqJvqBHAsw">
+    <img src="https://img.youtube.com/vi/-YqJvqBHAsw/maxresdefault.jpg" width="600px" alt="Watch Demo Video">
+</a>  
+</div>
+
 
 ---
 
